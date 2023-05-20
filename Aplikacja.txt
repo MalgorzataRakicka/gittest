@@ -16,5 +16,14 @@ hgjhgj
  public void logowanieMicrofsof() {
         System.out.println("Podaj nazwę użytkownika");
         System.out.println("Podaj hasło jakieś");
-        System.out.println("Kliknij na przycisk zaloguj");}
+        System.out.println("Kliknij na przycisk zaloguj");
+
+
+ public void przypomnijHaslo() {
+        System.out.println("Podaj nazwę użytkownika");
+        System.out.println("Podaj hasło jakieś");
+        System.out.println("Kliknij na przycisk "Przypomnij");
+
+
+}
 
